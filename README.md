@@ -76,5 +76,5 @@ Feel free to fork the repo, improve the design, or add new features like percent
 
 ### 👨‍💻 Author
 
-Made with ❤️ by **YourName**
+Made with ❤️ by **@srma**
 
